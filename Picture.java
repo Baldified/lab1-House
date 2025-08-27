@@ -56,8 +56,6 @@ public class Picture
             sun.moveVertical(-40);
             sun.changeSize(80);
             sun.makeVisible();
-            
-            sun.slowMoveVertical(200);
 
             drawn = true;
         }
@@ -83,5 +81,13 @@ public class Picture
         window.changeColor("black");
         roof.changeColor("green");
         sun.changeColor("yellow");
+    }
+    
+    /**
+     * Makes the sun go down
+     */
+    public void drawn()
+    {  
+        sun.slowMoveVertical(200);
     }
 }
