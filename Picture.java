@@ -53,15 +53,15 @@ public class Picture
             roof.moveVertical(-60);
             roof.makeVisible();
     
-            sun.changeColor("yellow");
+            sun.changeColor("blue");
             sun.moveHorizontal(100);
             sun.moveVertical(-40);
             sun.changeSize(80);
             sun.makeVisible();
 
-            sun2.changeColor("blue");
+            sun2.changeColor("yellow");
             sun2.moveHorizontal(150);
-            sun2.moveVertical(-650);
+            sun2.moveVertical(-65);
             sun2.changeSize(80);
             sun2.makeVisible();
             drawn = true;
