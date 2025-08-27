@@ -27,4 +27,4 @@ this is edited
 
 ************ ANSWERS TO QUESTIONS ************
 
-14.  Q- How do you think the Picture class draws the picture?     A- The picture class draws the picture by using the java script already typed out
+14.  Q- How do you think the Picture class draws the picture?     A- The picture class draws the picture by using the java code already implemented inside causing it to complete a set of commands in a short amount of time.
