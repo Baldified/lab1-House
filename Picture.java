@@ -58,6 +58,10 @@ public class Picture
             sun.moveVertical(-40);
             sun.changeSize(80);
             sun.makeVisible();
+            
+            person.moveHorizontal(-200);
+            person.moveVertical(30);
+            person.makeVisible();
 
             drawn = true;
         }
@@ -98,6 +102,6 @@ public class Picture
      */
     public void drawn2()
     {
-        person.slowMoveHorizontal(250);
+        person.slowMoveHorizontal(200);
     }
 }
