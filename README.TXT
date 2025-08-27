@@ -31,4 +31,4 @@ this is edited
 
 18. Challenge exercise Sunset: I managed to do it but I've got no idea how to prove it.
 
-19. Challenge exercise seperate method for sunset: I successfully managed to add a seperate method for the sunset by adding public void drawn() to the source code of Picture.
+19. Challenge exercise seperate method for sunset: I successfully managed to add a seperate method for the sunset by adding public void drawn() to the source code of Picture. NOTE I have absolutely no idea how to show proof of an animated object.
